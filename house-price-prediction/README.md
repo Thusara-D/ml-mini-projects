@@ -1,31 +1,15 @@
-# Salary Prediction
+# House Price Prediction
 
-This mini project predicts employee salaries using simple machine learning techniques based on years of experience.
-
----
+This mini project predicts house prices using simple machine learning techniques.
 
 ## Objective
-
-To understand and practice the basic machine learning workflow:
-
+To understand the basic ML workflow:
 - Data loading
-- Feature selection
+- Data preprocessing
 - Model training
 - Prediction
 
----
-
-## Problem Statement
-
-Given an employee’s:
-- Years of experience
-
-The model predicts the **expected salary** using a Linear Regression algorithm.
-
----
-
 ## Tools Used
-
 - Python
 - Pandas
 - NumPy
