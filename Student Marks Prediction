@@ -1,0 +1,42 @@
+# Student Marks Prediction
+
+This mini project predicts student exam marks using simple machine learning techniques based on study habits.
+
+---
+
+## Objective
+
+To understand and practice the basic machine learning workflow:
+
+- Data loading
+- Feature selection
+- Model training
+- Prediction
+
+---
+
+## Problem Statement
+
+Given a student's:
+- Study hours
+- Attendance percentage
+
+The model predicts the **final exam marks** using a Linear Regression algorithm.
+
+---
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+---
+
+## Machine Learning Model
+
+- **Algorithm**: Linear Regression  
+- **Type**: Supervised Learning (Regression)
+
+
